@@ -2,7 +2,7 @@
 
 These are just some quick notes on the project.
 
-0. Based on the App requirements, a WPF c# .Net Core Framework was chosen
+0. Based on the App requirements, a WPF c# .Net Core Framework was chosen. Set the Calculator.Application project as the startup project in the solution.
 1. Some efforts using DI for the Calculator class have been made, helping to separate the Front-End from the implementation logic
 2. Front-End is simple XAML and additional buttons (functions/operations) can be easily added
 3. Operators/Operations can be easily added to, but could also be abstracted further
